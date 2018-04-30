@@ -38,7 +38,7 @@ This repository is created for Google Udacity Indian Scholars. In this the work 
 
 <img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@Debajyoti Basak.png" width="800" height="600">
 
-**Name** - Debajyoti Basak  |  **SlackUsername** - @Debajyoti Basak  |  [Github Repo](https://github.com/aditisoni8899/UdacityPracticalQuiz1)<br/><br/><br/><br/>
+**Name** - Debajyoti Basak  |  **SlackUsername** - @Debajyoti Basak  |  [Github Repo](https://github.com/debo1994/UdacityPracticalQuiz)<br/><br/><br/><br/>
 
 
 <img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@Intkhab.jpg" width="800" height="600">
