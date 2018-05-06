@@ -158,6 +158,26 @@ This repository is created for Google Udacity Indian Scholars. In this the work 
 **Name** - Akshay Chopra  |  **SlackUsername** - @Akshay Chopra  |  [Github Repo](https://github.com/akshaychopra96/PracticalQuiz1)<br/><br/><br/><br/>
 
 
+<img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@Saurav.png" width="800" height="600">
+
+**Name** - @Saurav  |  **SlackUsername** - @Saurav  |  [Github Repo](https://github.com/Saurav2304/MyProfileLayout)<br/><br/><br/><br/>
+
+
+<img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@Amit.png" width="800" height="600">
+
+**Name** - Amit  |  **SlackUsername** - @Amit  |  [Github Repo](https://github.com/me-singh/Udacity-Practical-Quiz-App.git)<br/><br/><br/><br/>
+
+
+<img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@bikashthakur.png" width="800" height="600">
+
+**Name** - Bikash Thakur  |  **SlackUsername** - @bikashthakur  |  [Github Repo](https://github.com/bikashthakur/udacity-practical-quiz/)<br/><br/><br/><br/>
+
+
+<img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@Sudhanshu.png" width="800" height="600">
+
+**Name** - Sudhanshu  |  **SlackUsername** - @Sudhanshu  |  [Github Repo](https://github.com/sud8443/UdacityPracticalQuizOne)<br/><br/><br/><br/>
+
+
 <img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@varun.png" width="800" height="600">
 
 **Name** - Varun  |  **SlackUsername** - @Varun  |  [Github Repo](https://github.com/varunam/FirstPracticalQuiz)<br/><br/><br/><br/>
@@ -230,7 +250,10 @@ This repository is created for Google Udacity Indian Scholars. In this the work 
 
 <img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@Green Little Robot.png" width="800" height="600">
 
-**Name** - Ajay Sharvesh  |  **SlackUsername** - @Green Litle Robot  |  [Github Repo](https://github.com/aditisoni8899/UdacityPracticalQuiz1)<br/><br/><br/><br/>
+**Name** - Ajay Sharvesh  |  **SlackUsername** - @Green Litle Robot  |  [Github Repo](https://github.com/AjaySharvesh3/Practical-Quiz)<br/><br/><br/><br/>
+
+
+
 
 
 
