@@ -63,7 +63,7 @@ This repository is created for Google Udacity Indian Scholars. In this the work 
 
 <img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@jd07.png" width="800" height="600">
 
-**Name** - Jagdish Dalal  |  **SlackUsername** - @jd07  |  [Github Repo](https://github.com/JigishDalal/UdacityPraticalQuize1)<br/><br/><br/><br/>
+**Name** - Jigish Dalal  |  **SlackUsername** - @jd07  |  [Github Repo](https://github.com/JigishDalal/UdacityPraticalQuize1)<br/><br/><br/><br/>
 
 
 <img src="https://raw.githubusercontent.com/CoderVishalSehgal/Udacity-India-Scholars-Practical-Quiz/master/Scholars showcasing covers/@Nishanks.png" width="800" height="600">
